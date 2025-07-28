@@ -1,12 +1,16 @@
-# React + Vite
+# Module 9B – Custom Profile Component
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+This is a React app built with Vite. It shows a profile card styled with inline CSS.
 
-Currently, two official plugins are available:
+## What I Learned
+- How to use JSX and inline styling in React
+- How to create and render a functional component
+- How to use useState to add interactivity
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Challenges
+I ran into a small issue with commenting inside JSX, but I fixed it by using the proper `{/* comment */}` syntax.
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Screenshot
+_Add your screenshot here once you take one._
+<img width="1840" height="1191" alt="Screenshot 2025-07-27 at 7 36 06 PM" src="https://github.com/user-attachments/assets/67522648-d923-41f0-a52e-961a415562d0" />
