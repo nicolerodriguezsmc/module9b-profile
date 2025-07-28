@@ -9,7 +9,7 @@ This is a React app built with Vite. It shows a profile card styled with inline 
 - How to use useState to add interactivity
 
 ## Challenges
-I ran into a small issue with commenting inside JSX, but I fixed it by using the proper `{/* comment */}` syntax.
+I ran into a small issue with commenting inside JSX, but I fixed it by using the proper {/* comment */} syntax. Otherwise, I had to really parse through the styling code from the other assignment in order to understand what each section did so I could implement it into my code.
 
 ## Screenshot
 _Add your screenshot here once you take one._
